@@ -9,7 +9,7 @@ import {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter basename='my-app'>
+  <BrowserRouter basename='/my-app'>
     <Routes>
       <Route path = "/my-app" element = {<App />}></Route>
     </Routes>
