@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.8f73f46f.css",
+    "main.js": "/my-app/static/js/main.65eb952d.js",
+    "static/media/video.mp4": "/my-app/static/media/video.e8f2caa3c15e104f8e6f.mp4",
+    "static/media/About_Alex.jpg": "/my-app/static/media/About_Alex.4d7ff54437a83ddd15d6.jpg",
+    "static/media/header_background.png": "/my-app/static/media/header_background.f5332b12096059556081.png",
+    "static/media/work_img_4.png": "/my-app/static/media/work_img_4.2da9ecc555c9bd9e9d75.png",
+    "static/media/work_img_1.png": "/my-app/static/media/work_img_1.38798afe26675c6fb569.png",
+    "static/media/work_img_5.png": "/my-app/static/media/work_img_5.7644feaeb5111cdc29c6.png",
+    "static/media/work_img_2.png": "/my-app/static/media/work_img_2.dbb9dac6695a40236dc1.png",
+    "static/media/work_img_3.png": "/my-app/static/media/work_img_3.94207c28bfb89a4d533f.png",
+    "static/media/testimonials_background.jpeg": "/my-app/static/media/testimonials_background.245bbe6f1756009f58e8.jpeg",
+    "static/media/work_img_6.png": "/my-app/static/media/work_img_6.3890801b758097665d1d.png",
+    "static/media/subscribe_background.jpeg": "/my-app/static/media/subscribe_background.9055a9d94386e2c448c7.jpeg",
+    "static/media/logo_img_1.png": "/my-app/static/media/logo_img_1.56e6302690f664182a9d.png",
+    "static/media/logo_img_6.png": "/my-app/static/media/logo_img_6.9cb6e0ebf3aadac556f6.png",
+    "static/media/services_img_6.svg": "/my-app/static/media/services_img_6.6e42843de4b856d698cda12fc549dc8d.svg",
+    "static/media/services_img_3.svg": "/my-app/static/media/services_img_3.387471ba5d63250a65204770f1628c6d.svg",
+    "static/media/services_img_1.svg": "/my-app/static/media/services_img_1.8dbb30cc8ad8a5cf12d183466a08088b.svg",
+    "static/media/services_img_5.svg": "/my-app/static/media/services_img_5.9c6e262d0d477c6ab3e6751c89cb89bf.svg",
+    "static/media/services_img_2.svg": "/my-app/static/media/services_img_2.6085851215ce21e8e1af1cd7532f62b3.svg",
+    "static/media/services_img_4.svg": "/my-app/static/media/services_img_4.c4c4a3c1d29dc9b62ae991c422b53011.svg",
+    "static/media/slick.svg": "/my-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/my-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/my-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/my-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/my-app/index.html",
+    "main.8f73f46f.css.map": "/my-app/static/css/main.8f73f46f.css.map",
+    "main.65eb952d.js.map": "/my-app/static/js/main.65eb952d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f73f46f.css",
+    "static/js/main.65eb952d.js"
+  ]
+}
